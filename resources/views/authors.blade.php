@@ -4,9 +4,9 @@
         <h1>Prelim Examination</h1>
     </head>
     <body>
-        <h1>MDC STUDENT ni sya</h1>
-        <p>John Crismel Boligao</p>
+        <h1>MDC STUDENT </h1>
+        <p>Jade Silagan</p>
         <p>BSIT-3 Section 2</p>
-        <p>Joga tayo mamaya?</p>            
+        <p>One Two Three</p>            
     </body>  
 </html> 
